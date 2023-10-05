@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  margin: 5% auto;
+  max-width: 500px;
+}
+
+.buttons {
+  display: flex!important;
+  flex-direction: row;
+  justify-content: center;
+  gap: 5%;
+}
+
+.timer {
+  margin: 3%;
+  display: flex!important;
+  flex-wrap: wrap;
+  justify-content: center;
+}
